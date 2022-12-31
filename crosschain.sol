@@ -41,4 +41,4 @@ import "@openzeppelin/contracts-upgradeable/crosschain/optimismCrossChainEnabled
 contract MyTokenOptimism is
     MyTokenCrossChain,
     CrossChainEnabledOptimism(0x25ace71c97B33Cc4729CF772ae268934F7ab5fA1)
-{}
+{} 
